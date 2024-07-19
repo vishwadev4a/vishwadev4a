@@ -109,6 +109,12 @@
 - 📫 How to reach me **[vishwadevsharma1@gmail.com](mailto:vishwadevsharma1@gmail.com)**
 - ⚡ Feel free to connect with me on [Linked In](https://www.linkedin.com/in/vishwadev-sharma-aa091923b/)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vish04Vaid05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!---
 vishwadev4a/vishwadev4a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
